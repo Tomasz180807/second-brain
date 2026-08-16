@@ -1,0 +1,267 @@
+{
+  "version": 4,
+  "generated": "2026-08-16T09:34:31+00:00",
+  "vault": "C:\\Users\\Ja\\Desktop\\second brain\\second brain",
+  "counts": {
+    "notes": 12,
+    "attachments": 1,
+    "folders": 9,
+    "tags": 5
+  },
+  "conventions": {
+    "link_style": "wiki",
+    "filename_case": "title",
+    "root_notes": 0,
+    "frontmatter_keys": {
+      "title": 4,
+      "tags": 4,
+      "type": 4,
+      "subject": 4,
+      "updated": 4,
+      "created": 1,
+      "source": 1,
+      "source_file": 1,
+      "source_hash": 1,
+      "status": 1,
+      "related": 1
+    },
+    "frontmatter_enums": {
+      "title": [
+        "AI",
+        "Mathe",
+        "Integralrechnung",
+        "Trading"
+      ],
+      "type": [
+        "moc",
+        "note"
+      ],
+      "subject": [
+        "Mathe",
+        "AI",
+        "Trading"
+      ],
+      "updated": [
+        "2026-08-16"
+      ]
+    },
+    "attachment_folder": "",
+    "daily": {
+      "folder": "",
+      "format": "%Y-%m-%d",
+      "template": ""
+    },
+    "inbox": "00-inbox",
+    "template_folder": ""
+  },
+  "folders": [
+    {
+      "path": "00-inbox",
+      "notes": 0,
+      "depth": 1,
+      "role": "inbox",
+      "top_tags": [],
+      "keywords": [],
+      "samples": [],
+      "date_named_ratio": 0.0,
+      "last_modified": null
+    },
+    {
+      "path": "90-assets",
+      "notes": 0,
+      "depth": 1,
+      "role": "attachments",
+      "top_tags": [],
+      "keywords": [],
+      "samples": [],
+      "date_named_ratio": 0.0,
+      "last_modified": null
+    },
+    {
+      "path": "90-assets/goodnotes",
+      "notes": 0,
+      "depth": 2,
+      "role": "attachments",
+      "top_tags": [],
+      "keywords": [],
+      "samples": [],
+      "date_named_ratio": 0.0,
+      "last_modified": null
+    },
+    {
+      "path": "90-assets/goodnotes/2026",
+      "notes": 0,
+      "depth": 3,
+      "role": "attachments",
+      "top_tags": [],
+      "keywords": [],
+      "samples": [],
+      "date_named_ratio": 0.0,
+      "last_modified": null
+    },
+    {
+      "path": "90-assets/goodnotes/2026/08",
+      "notes": 0,
+      "depth": 4,
+      "role": "attachments",
+      "top_tags": [],
+      "keywords": [],
+      "samples": [],
+      "date_named_ratio": 0.0,
+      "last_modified": null
+    },
+    {
+      "path": "AI",
+      "notes": 1,
+      "depth": 1,
+      "role": "topic",
+      "top_tags": [
+        "moc",
+        "ai"
+      ],
+      "keywords": [
+        "moc",
+        "transcripts",
+        "sync",
+        "newest",
+        "inserts",
+        "first",
+        "directly",
+        "goodnotes"
+      ],
+      "samples": [
+        "AI"
+      ],
+      "date_named_ratio": 0.0,
+      "last_modified": "2026-08-16T00:54:58"
+    },
+    {
+      "path": "Schule",
+      "notes": 9,
+      "depth": 1,
+      "role": "study",
+      "top_tags": [
+        "moc",
+        "schule/mathe"
+      ],
+      "keywords": [
+        "mathe",
+        "schule",
+        "wirtschaft",
+        "politik",
+        "physik",
+        "musik",
+        "geschichte",
+        "englisch",
+        "deutsch",
+        "chemie",
+        "moc",
+        "teil",
+        "integralrechnung",
+        "transcripts",
+        "sync"
+      ],
+      "samples": [
+        "Chemie",
+        "Deutsch",
+        "Englisch",
+        "Geschichte",
+        "Mathe"
+      ],
+      "date_named_ratio": 0.0,
+      "last_modified": "2026-08-16T00:48:04"
+    },
+    {
+      "path": "Schule/Mathe",
+      "notes": 1,
+      "depth": 2,
+      "role": "study",
+      "top_tags": [
+        "goodnotes",
+        "schule/mathe"
+      ],
+      "keywords": [
+        "integralrechnung",
+        "mathe",
+        "quelle",
+        "schule",
+        "goodnotes",
+        "frac",
+        "teil"
+      ],
+      "samples": [
+        "2026-08-16 Mathe — Integralrechnung"
+      ],
+      "date_named_ratio": 1.0,
+      "last_modified": "2026-08-16T00:55:10"
+    },
+    {
+      "path": "Trading",
+      "notes": 1,
+      "depth": 1,
+      "role": "topic",
+      "top_tags": [
+        "moc",
+        "trading"
+      ],
+      "keywords": [
+        "trading",
+        "moc",
+        "transcripts",
+        "sync",
+        "newest",
+        "inserts",
+        "first",
+        "directly",
+        "goodnotes"
+      ],
+      "samples": [
+        "Trading"
+      ],
+      "date_named_ratio": 0.0,
+      "last_modified": "2026-08-16T00:55:00"
+    }
+  ],
+  "tags": {
+    "moc": {
+      "count": 3,
+      "folders": {
+        "AI": 1,
+        "Schule": 1,
+        "Trading": 1
+      }
+    },
+    "schule/mathe": {
+      "count": 2,
+      "folders": {
+        "Schule": 1,
+        "Schule/Mathe": 1
+      }
+    },
+    "ai": {
+      "count": 1,
+      "folders": {
+        "AI": 1
+      }
+    },
+    "goodnotes": {
+      "count": 1,
+      "folders": {
+        "Schule/Mathe": 1
+      }
+    },
+    "trading": {
+      "count": 1,
+      "folders": {
+        "Trading": 1
+      }
+    }
+  },
+  "obsidian": {
+    "plugins": [
+      "claude-code-ide",
+      "companion-mcp",
+      "obsidian-local-rest-api"
+    ]
+  }
+}
