@@ -1,0 +1,11 @@
+# Obsidian writes these constantly; committing them creates noise, not history.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# The agent's undo journal keeps pre-change copies of notes. Useful locally,
+# pointless in history -- git already is the history.
+.obsidian-agent/journal/
+
+.trash/
+.DS_Store
