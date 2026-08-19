@@ -1,16 +1,24 @@
 {
   "inbox": "00-inbox",
-  "goodnotes_inbox": "_goodnotes-inbox",
+  "goodnotes_inbox": "goodnotes-inbox",
   "attachment_folder": "90-assets/goodnotes",
   "filename_case": "title",
   "ingest": {
     "filename": "{created} {subject} — {title}",
     "attachment_folder": "90-assets/goodnotes/{year}/{month}",
     "hash_length": 64,
-    "base_tags": ["goodnotes"],
+    "base_tags": [
+      "goodnotes"
+    ],
     "tag_from_folder": true,
-    "flow_keys": ["tags", "related"],
-    "quote_keys": ["source_file", "source_hash"],
+    "flow_keys": [
+      "tags",
+      "related"
+    ],
+    "quote_keys": [
+      "source_file",
+      "source_hash"
+    ],
     "body_prefix": "Teil von [[{subject}]].",
     "source_section": "Quelle",
     "source_embed": "![[{source_basename}]]",
@@ -29,7 +37,9 @@
       "source_file": "{source_basename}",
       "source_hash": "{source_hash}",
       "status": "seedling",
-      "related": ["[[{subject}]]"]
+      "related": [
+        "[[{subject}]]"
+      ]
     }
   }
 }
