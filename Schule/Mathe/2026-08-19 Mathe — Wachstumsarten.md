@@ -53,7 +53,8 @@ $$E(t) = a \cdot q^t$$
 > Die Summe aus einem linearen und einem exponentiellen Term ist im Allgemeinen weder linear noch exponentiell.
 
 ## Verwandt
-- [[Logarithmus]]
+
+- [[2026-08-19 Mathe — Logarithmus]]
 
 ## Quelle
 

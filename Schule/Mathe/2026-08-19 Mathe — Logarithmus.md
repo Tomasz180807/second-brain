@@ -51,7 +51,8 @@ Für $x > 0$, $y > 0$:
 - **Plausibilitätscheck:** Ergebnis wieder in die Ausgangsgleichung einsetzen.
 
 ## Verwandt
-- [[Wachstumsarten]]
+
+- [[2026-08-19 Mathe — Wachstumsarten]]
 
 ## Quelle
 
