@@ -105,3 +105,59 @@ Marca con una X. Ojo: algunas palabras pueden ser causa **y** efecto a la vez �
 ## Quelle
 
 ![[Spanisch Material.pdf]]
+
+## Eigene Lösungen
+
+### Hypothesen aus dem Unterricht (S. 2)
+
+Warum verlassen junge Menschen die Dörfer?
+
+- oportunidades de obtener educación
+- la vida social
+- no hay médicos
+- falta de cultura social [?]
+- falta de actividades
+- [?] *(ein Wort nicht lesbar)*
+
+Formulierte Sätze:
+
+> Los jóvenes abandonan los pueblos por la falta de perspectivas, resultada de la escasez de mano de obra.
+
+> La pérdida de identidad cultural resulta en un deterioro de la cohesión territorial, que causa un sentimiento de resignación.
+
+### Tarea 1 — vollständige Zuordnung
+
+| Nr. | Español | Letra | Alemán |
+|---|---|---|---|
+| 1 | la falta de servicios básicos | a | Mangel an Grundversorgung |
+| 2 | la carencia | f | Fehlen / Mangel |
+| 3 | la desigualdad regional | m | regionale Ungleichheit |
+| 4 | el abandono | j | Verlassenheit / Vernachlässigung |
+| 5 | la marginalización | d | Marginalisierung |
+| 6 | la crisis demográfica | i | demografische Krise |
+| 7 | la escasez de mano de obra | n | Fachkräftemangel |
+| 8 | el cierre de servicios básicos | l | Schließung von Grundversorgungseinrichtungen |
+| 9 | la pérdida de identidad cultural | k | Verlust kultureller Identität |
+| 10 | el deterioro de la cohesión territorial | b | Verfall des territorialen Zusammenhalts |
+| 11 | el ocaso | q | Niedergang / Verfall |
+| 12 | la desarticulación territorial | p | territoriale Zersplitterung |
+| 13 | la resignación | h | Resignation |
+| 14 | la falta de perspectivas | c | Perspektivlosigkeit |
+| 15 | la pobreza rural | g | ländliche Armut |
+| 16 | el despoblamiento | o | Entvölkerung |
+| 17 | el círculo vicioso | e | Teufelskreis |
+
+### Tarea 2 — Klassifikation
+
+| Palabra | Einordnung |
+|---|---|
+| la falta de servicios básicos | Causa |
+| la escasez de mano de obra | Ambas |
+| el cierre de servicios básicos | Efecto |
+| la falta de perspectivas | Ambas |
+| el abandono | Efecto |
+| la pobreza rural | Efecto |
+| la pérdida de identidad cultural | Efecto |
+| el despoblamiento | Efecto |
+| el círculo vicioso | Ambas |
+| la marginalización | Ambas |

@@ -63,3 +63,39 @@ Teil von [[Spanisch]].
 ## Quelle
 
 ![[Spanisch Material.pdf]]
+
+## Eigene Bearbeitung
+
+### A · Datos generales
+
+| | |
+|---|---|
+| Nombre del pueblo | **Genalguacil** |
+| Provincia / Comunidad Autónoma | Málaga / Andalucía |
+| Número de habitantes | 500 habitantes |
+| Distancia a la ciudad grande más cercana | Estepona 32 km · Ronda 40 km · Málaga 119 km |
+
+### B · ¿Qué hay en el pueblo?
+
+| En el pueblo hay… | | Anmerkung |
+|---|---|---|
+| escuela | Sí | colegio en el pueblo |
+| médico | Sí | centro sanitario en el pueblo |
+| tienda | Sí | supermercado |
+| bar / restaurante | Sí | |
+| transporte público | Sí | autobús |
+| internet | Sí | 4G y fibra óptica |
+| trabajo / empleo | Sí | servicios, agricultura, construcción y sector cultural |
+| naturaleza / campo | Sí | |
+
+> En este pueblo hay **escuela, médicos, tiendas**, pero no hay **instituto**.
+
+**Otros servicios:** banco, centros sociales, centros culturales (museo), farmacia, biblioteca, auditorio, instalaciones deportivas
+
+**Vivienda:** alquiler desde 700 € · compra desde 50.000 €
+
+### C · ¿Por qué elegiste este pueblo?
+
+> Elegí este pueblo porque es un pueblo pequeño, tranquilo y tiene muchos servicios. También me gusta que hay naturaleza y oportunidades de trabajo.
+
+> Lo que más me gusta de este lugar es la naturaleza, el arte y la tranquilidad.
