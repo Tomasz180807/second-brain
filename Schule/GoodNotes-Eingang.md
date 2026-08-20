@@ -24,7 +24,7 @@ Fachordner.
 | Musik | [[Musik]] | [[Musik.pdf]] |
 | Physik | [[Physik]] | [[Physik.pdf]] |
 | Politik | [[Politik&Wirtschaft]] | [[Politik.pdf]] |
-| Spanisch | — | [[Spanisch.pdf]] · [[Spanisch Material.pdf]] |
+| Spanisch | [[Spanisch]] | [[Spanisch.pdf]] · [[Spanisch Material.pdf]] |
 
 ## Wie das hier funktioniert
 

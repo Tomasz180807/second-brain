@@ -1,4 +1,4 @@
-[[Musik]] [[Politik&Wirtschaft]] [[Deutsch]] [[Mathe]] [[Chemie]] [[Physik]] [[Geschichte]] [[Englisch]] 
+[[Musik]] [[Politik&Wirtschaft]] [[Deutsch]] [[Mathe]] [[Chemie]] [[Physik]] [[Geschichte]] [[Englisch]] [[Spanisch]] 
 
 
 ## Eingang
