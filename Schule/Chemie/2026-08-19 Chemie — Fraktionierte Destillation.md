@@ -6,8 +6,12 @@ subject: Chemie
 created: 2026-08-19
 updated: 2026-08-20
 source: goodnotes
-source_file: "Chemie.pdf"
-source_hash: "23b027c8513914c938d8d6e4f14d9b5b3c9199a50747bdb491a0ac399507be09"
+source_file:
+  - Chemie.pdf
+  - Chemie Material.pdf
+source_hash:
+  - 23b027c8513914c938d8d6e4f14d9b5b3c9199a50747bdb491a0ac399507be09
+  - 4d50d3e6b2e02eb40e856c80116f8069fb4139fa97231d992f83aed169b17e44
 status: seedling
 related: ["[[Chemie]]"]
 ---
